@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/DevslopesProfile/app/src/main/res/drawable/start_button.xml" value="0.159" />
+        <entry key="..\:/DevslopesProfile/app/src/main/res/layout/activity_league.xml" value="0.18" />
         <entry key="..\:/DevslopesProfile/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/DevslopesProfile/app/src/main/res/layout/welcome_screen.xml" value="0.22" />
       </map>
